@@ -1,0 +1,29 @@
+td {
+    border: 1px solid rgb(0,0,0);
+    padding: 15px;
+}
+
+
+div{
+    float: left;
+    margin-top: 3%;
+    margin-left: 10%;
+    /*border: 1px solid rgb(0,0,0);*/
+}
+
+
+
+.formCalendar{
+    width: 60%;
+    margin-bottom: 15%;
+}
+
+._blank{
+    background-color: gray;
+}
+
+select{
+    font-size: 14px;
+    padding: 2px;
+    margin-right: 2%;
+}
